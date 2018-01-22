@@ -16,6 +16,6 @@ public class Test34 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Test!!!");
-        
+        System.out.println("Hello Test!!!");
     }
 }
